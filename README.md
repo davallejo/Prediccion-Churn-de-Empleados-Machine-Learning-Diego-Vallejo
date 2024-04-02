@@ -1,0 +1,1 @@
+La empresa XYZ precisa entender las principales razones por las cuales sus empleados se van de la compañía, así como crear un modelo predictivo que permita identificar a los clientes con mayor propensión a irse.
